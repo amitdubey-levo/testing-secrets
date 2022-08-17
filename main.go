@@ -18,6 +18,7 @@ func main() {
 
 	// opps I added a secret at line 20
 	awsToken := "AKIALALEMEL33243OLIA"
+	var password = "test@1234"
 
 	f := "apple"
 	fmt.Println(f)
